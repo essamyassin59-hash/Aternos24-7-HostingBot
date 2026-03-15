@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "purplehardocre.aternos.me",
+    "port": 57720,
     "version": "",
     "try-creative": false
   },
@@ -87,6 +87,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
